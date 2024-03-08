@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\НОУТ\Desktop\уля\УдГУ\ПИ - ВО\Алгоритмизация и программирование\Практика. Рефакторинг игры MazeGame с использованием графики\SFML_Maze_Game\x64\Debug\SFML_Maze_Game.exe</FullPath>
+      <FullPath>C:\SFML_Maze_Game\x64\Debug\SFML_Maze_Game.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

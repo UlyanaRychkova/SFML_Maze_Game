@@ -136,10 +136,13 @@
     <ClCompile Include="SFML_Maze_Game.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="assets\bitmaps\diamond.png" />
     <Image Include="assets\bitmaps\Door.bmp" />
     <Image Include="assets\bitmaps\empty.bmp" />
     <Image Include="assets\bitmaps\man.png" />
+    <Image Include="assets\bitmaps\mine.png" />
     <Image Include="assets\bitmaps\money.png" />
+    <Image Include="assets\bitmaps\time.png" />
     <Image Include="assets\bitmaps\wall.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

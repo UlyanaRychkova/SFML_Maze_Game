@@ -35,5 +35,14 @@
     <Image Include="assets\bitmaps\money.png">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="assets\bitmaps\diamond.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\bitmaps\time.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\bitmaps\mine.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
