@@ -1,88 +1,88 @@
 ﻿  SFML_Maze_Game.cpp
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244:             T=unsigned int
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244:         and
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(171,50): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244:             T=unsigned int
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244:         and
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(172,50): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244:             T=unsigned int
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244:         and
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,65): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244:             T=unsigned int
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244:         and
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(186,52): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,53): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,53): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,53): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,53): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,53): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,42): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,42): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,42): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,42): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(216,42): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,53): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,53): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,53): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,53): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,53): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,42): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,42): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,42): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,42): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(217,42): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(219,56): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(219,56): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(219,56): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(219,56): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(219,56): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(220,37): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(220,37): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(220,37): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(220,37): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(220,37): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(222,55): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(222,55): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(222,55): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(222,55): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(222,55): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(223,36): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(223,36): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(223,36): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(223,36): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(223,36): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,80): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,80): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,80): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,80): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,80): warning C4244:         ]
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,59): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,59): warning C4244:         with
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,59): warning C4244:         [
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,59): warning C4244:             T=float
-C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(273,59): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244:             T=unsigned int
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244:         and
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(179,50): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244:             T=unsigned int
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244:         and
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(180,50): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244:             T=unsigned int
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244:         and
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,65): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244:             T=unsigned int
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244:         and
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(194,52): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,53): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,53): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,53): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,53): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,53): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,42): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,42): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,42): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,42): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(224,42): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,53): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,53): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,53): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,53): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,53): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,42): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,42): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,42): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,42): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(225,42): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(227,56): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(227,56): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(227,56): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(227,56): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(227,56): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(228,37): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(228,37): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(228,37): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(228,37): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(228,37): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(230,55): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(230,55): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(230,55): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(230,55): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(230,55): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(231,36): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(231,36): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(231,36): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(231,36): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(231,36): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,80): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,80): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,80): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,80): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,80): warning C4244:         ]
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,59): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,59): warning C4244:         with
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,59): warning C4244:         [
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,59): warning C4244:             T=float
+C:\SFML_Maze_Game\SFML_Maze_Game\SFML_Maze_Game.cpp(280,59): warning C4244:         ]
   SFML_Maze_Game.vcxproj -> C:\SFML_Maze_Game\x64\Debug\SFML_Maze_Game.exe

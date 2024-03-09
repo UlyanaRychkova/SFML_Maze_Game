@@ -37,7 +37,7 @@ int maze[LY][LX] = { // это наш лабиринт, структура та же
 
 // переменные их консольной версии игры
 int score = 0; // счет игры
-
+int flashingSprTime = 0;    // отвечает за мигание спрайта времени
 int gameState = 0; // 0 - игра продолжаетс€, 1 - выигрыш, 2 - закончилось врем€
 sf::Time timeLimit = sf::milliseconds(90000); // лимит игры в миллисекундах
 sf::Time gameTime; // оставшеес€ врем€
@@ -132,6 +132,7 @@ void UpdateScore(int score)
 {
     dashboardText.setString(to_string(score)); // устанавливаем текст дл€ вывода to_string переводит число в строковое представление
     dashboardText.setPosition(scoreTextPosition); // устанавливаем позицию текста дл€ счета
+    dashboardText.setFillColor(sf::Color(255, 255, 35)); // ”станавливаем светло-желтый цвет текста
     window.draw(dashboardText); // отрисовываем текст в буфере кадра
 }
 
@@ -153,6 +154,13 @@ void UpdateClock(sf::Time elapsed)
         // дл€ получени€ времени в секундах используем функцию asSeconds. ќна возвращает float
         // поэтому €вно преобразуем ее в int, иначе возможны дес€тичные дроби при выводе оставшегос€ времени
         dashboardText.setString(to_string((int)gameTime.asSeconds()));
+         
+        if (gameTime.asSeconds() < 16) { // если врем€ 15 секунд или меньше
+            dashboardText.setFillColor(sf::Color::Red); // устанавливаем красный цвет дл€ оставшегос€ времени
+        }
+        else {
+            dashboardText.setFillColor(sf::Color::Green); // устанавливаем светло-зеленный цвет дл€ оставшегос€ времени
+        }
         window.draw(dashboardText); // отрисовываем текст в буфере кадра
     }
 }
@@ -237,8 +245,7 @@ void PrepareFonts(string headerFontName, string dashboardFontName)
     dashboardFont.loadFromFile(dashboardFontName); // загружаем шрифт
     dashboardText.setFont(dashboardFont);// устанавливаем шрифт дл€ текста
     dashboardText.setCharacterSize(45);// устанавливаем размер символов
-    dashboardText.setString("0");// задаем строку текста дл€ отображени€
-    dashboardText.setFillColor(sf::Color(255, 255, 35)); // ”станавливаем светло-желтый цвет текста
+    dashboardText.setString("0");// задаем строку текста дл€ отображени€    
     dashboardText.setStyle(sf::Text::Bold | sf::Text::Italic);// делаем шрифт жирным и курсивом, использу€ битовое »
     // ÷ентрирование заголовка. ѕолучаем размеры окна игры
     sf::Vector2u wSize = window.getSize();
@@ -355,9 +362,12 @@ void RenderScene()
     RedrawMaze(maze, LX, LY); // отрисовка лабиринта
     window.draw(headerText); // ¬ыводим заголовок игры
     window.draw(scoreSprite); // ¬ыводим спрайт счета
-    window.draw(timerSprite); // ¬ыводим спрайт времени
     UpdateScore(score); // обновл€ем текст счета
     UpdateClock(gameClock.getElapsedTime()); // обновл€ем оставшеес€ врем€ игры
+    // если врем€ меньше 15 секунд спрайт времени мигает
+    if (gameTime.asSeconds() > 16 || gameTime.asSeconds() < 1 || (gameTime.asSeconds() < 16 && ++flashingSprTime % 10 < 5)) {
+        window.draw(timerSprite); // ¬ыводим спрайт времени
+    }    
 }
 
 int main()
